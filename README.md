@@ -14,3 +14,21 @@ I have an interest in game development, and wanna use the information I learn he
 
 ## Fun Fact
 Gummy worms have more bones than regular worms :3
+
+
+#### Week 2: AI Tools & First Collaborations
+**Date**: 01/18/2026-01/24/2026
+
+**What I learned this week:**
+- Different AIs respon in different ways
+- Good prompts are essential
+- Rate limits are annoying
+
+**What challenged me:**
+- Figuring out what I'm supposed to do
+
+**What I'm proud of:**
+- 🤷🏽‍♂️
+
+**Questions I still have:**
+- None
