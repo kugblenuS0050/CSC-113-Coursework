@@ -14,3 +14,20 @@ I have an interest in game development, and wanna use the information I learn he
 
 ## Fun Fact
 Gummy worms have more bones than regular worms :3
+
+
+#### Week 2: SAGE Development Environment & AI-Assisted Coding
+**Date**: 2/1/26 - 2/7/26
+
+**What I built:**
+- `hello_sage.py` — first Python script
+- `prompt_tracker.py` — built with Kevin's help
+
+**What I learned about AI-assisted coding:**
+- AI can be very helpful to speed things up
+
+**What challenged me:** No challenges encountered
+
+**What I'm proud of:** No pride achieved
+
+**Questions I still have:** No confusion detected
